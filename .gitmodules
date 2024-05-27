@@ -1,0 +1,6 @@
+[submodule "fluent-ffmpeg"]
+	path = fluent-ffmpeg
+	url = https://github.com/fluent-ffmpeg/node-fluent-ffmpeg.git
+[submodule "whisper.cpp"]
+	path = whisper.cpp
+	url = https://github.com/ggerganov/whisper.cpp.git
